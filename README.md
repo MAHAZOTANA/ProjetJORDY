@@ -1,2 +1,0 @@
-# ProjetJORDY
-ProjetS6
